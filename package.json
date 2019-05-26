@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "test": "mocha --exit"
+    "test": "mocha"
   },
   "author": "",
   "license": "ISC",
